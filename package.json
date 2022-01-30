@@ -2,8 +2,10 @@
   "name": "documentation-generator",
   "displayName": "Documentation Generator",
   "description": "VS Code Extension for create clean documentation",
-  "version": "0.0.1",
-  "repository": "",
+  "publisher": "Alphacsoft",
+  "icon": "images/documents128.png",
+  "version": "0.0.1+1",
+  "repository": "https://github.com/alalawy/documentation-generator",
   "engines": {
     "vscode": "^1.63.0"
   },
